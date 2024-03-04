@@ -1,4 +1,4 @@
-import lista
+import exercicio_1
 
 def list_test():
-  assert lista.inverse_list() == [10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+  assert exercicio_1.inverse_list() == [10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
